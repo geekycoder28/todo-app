@@ -21,7 +21,7 @@ This is the **back-end** for a simple task management system built with **Node.j
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone git@github.com:geekycoder28/todo-app.git
    cd backend
    ```
 

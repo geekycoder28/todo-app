@@ -27,7 +27,7 @@ This is the **front-end** of the task management system built with **React** and
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone git@github.com:geekycoder28/todo-app.git
    cd frontend
    ```
 
